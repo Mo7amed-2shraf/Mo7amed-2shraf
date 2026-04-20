@@ -1,51 +1,65 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ashraf</h1>
 
 <p align="center">
-  <b>AI & Data Science Developer</b><br>
-  Machine Learning | Deep Learning | NLP
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0077FF&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Machine+Learning+Engineer;Data+Science+Developer;AI+Specialist" />
+  <b>AI & Data Science Developer</b><br>
+  Machine Learning | Deep Learning | NLP | Data Analysis
 </p>
 
-<hr>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=AI+Developer;Data+Science+Engineer;Machine+Learning+Specialist;Deep+Learning+Enthusiast" />
+</p>
+
+---
 
 <h2>🚀 About Me</h2>
 <ul>
   <li>💡 Building intelligent systems using Machine Learning & Deep Learning</li>
-  <li>📊 Data analysis, modeling, and performance optimization</li>
-  <li>🧠 Working with Natural Language Processing (NLP)</li>
-  <li>⚡ Focused on real-world AI solutions</li>
+  <li>📊 Strong focus on data analysis, insights, and modeling</li>
+  <li>🧠 Experience with NLP and text-based AI systems</li>
+  <li>⚡ Passionate about scalable and real-world AI solutions</li>
 </ul>
 
-<hr>
+---
 
 <h2>🛠️ Tech Stack</h2>
 
-<h3>💻 Languages</h3>
+<h3>💻 Programming Languages</h3>
 <p>
   Python | C++ | Kotlin | Java
 </p>
 
-<h3>📚 Libraries & Frameworks</h3>
+<h3>📊 Data Science & Visualization</h3>
 <p>
-  Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch
+  Pandas | NumPy | Matplotlib | Seaborn | Plotly
 </p>
 
-<h3>🤖 AI Fields</h3>
+<h3>🤖 Machine Learning</h3>
 <p>
-  Machine Learning | Deep Learning | Natural Language Processing (NLP)
+  Scikit-learn | XGBoost | LightGBM | CatBoost
 </p>
 
-<hr>
+<h3>🧠 Deep Learning</h3>
+<p>
+  TensorFlow | Keras | PyTorch
+</p>
+
+<h3>🗣️ NLP</h3>
+<p>
+  NLTK | SpaCy | Transformers (Hugging Face)
+</p>
+
+---
 
 <h2>📌 Projects</h2>
 <p>
   🚧 Coming Soon...
 </p>
 
-<hr>
+---
 
 <h2>📫 Contact</h2>
 <p>
@@ -53,9 +67,10 @@
   💼 LinkedIn: www.linkedin.com/in/mohamed-ashraf-8201a034b
 </p>
 
-<hr>
+---
 
 <p align="center">
-  <i>"Building intelligent solutions with AI 🚀"</i>
+  <i>"Turning data into intelligence 🚀"</i>
 </p>
+
 
