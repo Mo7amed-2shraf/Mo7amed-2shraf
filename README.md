@@ -64,7 +64,7 @@
 <h2>📫 Contact</h2>
 <p>
   📧 Email: ettee35355@gmail.com <br>
-  Email 2:\mohamedashraf2104@icloud.com
+  Email 2:mohamedashraf2104@icloud.com
   💼 LinkedIn: www.linkedin.com/in/mohamed-ashraf-8201a034b
   portfolio:https://proto-ask-data.lovable.app
   
